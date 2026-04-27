@@ -24,7 +24,7 @@
     "@actions/core": "^1.6.0",
     "@actions/github": "^4.0.0",
     "@types/node-fetch": "^2.5.12",
-    "dots-wrapper": "^3.6.2",
+    "dots-wrapper": "^3.12.9",
     "node-fetch": "^2.6.7",
     "follow-redirects": ">=1.14.7"
   },
